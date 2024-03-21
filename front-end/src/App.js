@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     const checkApiStatus = async () => {
       try {
-        const response = await fetch(process.env.REACT_APP_API_URL);
+        const response = await fetch(process.env.REACT_APP_API_URL+'/status');
         if (!response.ok) throw new Error('API not available');
         setApiStatus('running');
       } catch (error) {
