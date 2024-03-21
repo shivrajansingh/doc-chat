@@ -70,7 +70,7 @@ function Docs() {
               <img className="pull-left" src="https://plus.google.com/u/0/_/focus/photos/public/AIbEiAIAAABECND6k6O2gLWavQEiC3ZjYXJkX3Bob3RvKigyMjgzNGM2ZWZkYjJhZDZhZjI1YTI0MzQxYzJkYTRkODEzNDBhY2UyMAHQr8BxOTmI3m0dZJGY3Vj4osnP9g?sz=48" alt="" />
               <div className="pull-left">
                 <p className="name">Docs Chat</p>
-                <p className="active">Nix</p>
+                <p className="active">By Shivrajan Singh</p>
               </div>
             </div>
           </div>
