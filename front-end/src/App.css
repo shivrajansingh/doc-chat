@@ -175,3 +175,6 @@
 .text-white{
   color:#fff !important
 }
+.middle {
+  height: 100vh;
+}
