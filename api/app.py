@@ -57,9 +57,6 @@ def allowed_file(filename):
 def index():
     return "Welcome to RAG System, visit https://docschat.shivrajan.com"
 
-@app.route('/server-status')
-def status():
-    return jsonify({ "status" : 'ok' })
 
 @app.route('/get-file-list')
 def list_files():
